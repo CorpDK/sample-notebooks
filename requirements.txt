@@ -1,7 +1,5 @@
 matplotlib
 pandas
-pandas-datareader
 numpy
 scikit-learn
 seaborn
-scipy
