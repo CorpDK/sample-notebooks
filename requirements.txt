@@ -4,3 +4,4 @@ pandas-datareader
 numpy
 scikit-learn
 seaborn
+scipy
